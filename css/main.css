@@ -1,0 +1,8 @@
+body {
+  background-color: #A47E3B;
+  text-align: center;
+}
+
+body > p {
+  font-weight: bold;
+}
