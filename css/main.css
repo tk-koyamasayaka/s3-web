@@ -1,6 +1,7 @@
 body {
   background-color: #A47E3B;
   text-align: center;
+  font-family: 'Noto Sans JP', sans-serif;
 }
 
 body > p {
